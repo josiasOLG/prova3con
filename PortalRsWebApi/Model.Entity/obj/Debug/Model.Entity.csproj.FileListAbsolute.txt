@@ -1,0 +1,2 @@
+C:\Users\Josias\source\repos\PortalRsWebApi\Model.Entity\obj\Debug\Model.Entity.csprojResolveAssemblyReference.cache
+C:\Users\Josias\source\repos\PortalRsWebApi\Model.Entity\obj\Debug\Model.Entity.csproj.CoreCompileInputs.cache
